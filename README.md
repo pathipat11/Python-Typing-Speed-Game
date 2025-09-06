@@ -47,7 +47,6 @@ python main.py
 
 ## 🎬 Demo Video
 
-Or embed a video:
 
 <img src="assets/videos/video-typing-speed-test-python.gif" alt="App Demo" width="540" height="350" />
 
