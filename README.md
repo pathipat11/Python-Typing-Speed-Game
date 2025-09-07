@@ -54,6 +54,10 @@ python main.py
 
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
-## License
+## Author
 
-This project is licensed under the MIT License.
+**Pathipat Mattra**
+
+* 🌐 Facebook: [Pathipat Mattra](https://facebook.com/pathipat.mattra)
+* 💻 GitHub: [pathipat11](https://github.com/pathipat11)
+* 💼 LinkedIn: [Pathipat Mattra](https://linkedin.com/in/viixl)
